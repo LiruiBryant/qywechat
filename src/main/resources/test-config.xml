@@ -1,0 +1,13 @@
+<xml>
+    <corpId>wxd1229eaa84e690a4</corpId>
+    <corpSecret>I5QJ7Ytd2jmoCVWRre5l9W7dYIHKa3hj5ek2fKrS2ZJQdkgXM8uZ58_YHE3ou_6V</corpSecret>
+    <agentId>13</agentId>
+    <token>earyant</token>
+    <aesKey>MPJyrimJDyUXNWKmNh8uEzQC1OI1BfW4mdRTesiaVRh</aesKey>
+    <accessToken></accessToken>
+    <!--<expiresTime></expiresTime>-->
+    <!--<userId>企业号通讯录里的某个userid</userId>-->
+    <!--<departmentId>企业号通讯录的某个部门id</departmentId>-->
+    <!--<tagId>企业号通讯录里的某个tagid</tagId>-->
+    <!--<oauth2redirectUri>网页授权获取用户信息回调地址</oauth2redirectUri>-->
+</xml>
